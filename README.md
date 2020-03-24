@@ -3,9 +3,10 @@ I hope that you can find what you are searching for. I tried to approach the fie
 
 ## Algorithms
 Algorithms are well-defined computational procedures that take a certain input and produce an output. Doing so, a good algorithm:
-*1. Halts (terminates),
-*2. Generates the same output when given the same input instances,
-*3. Can be broken down to a specific set of steps (computational procedures to be followed).
+
+1. Halts (terminates),
+2. Generates the same output when given the same input instances,
+3. Can be broken down to a specific set of steps (computational procedures to be followed).
 
 Therefore you can describe an algorithm as a sequence of computational steps with an input/output relation.
 An algorithm is said to be correct if, for every input instance, it terminates with the correct output.
